@@ -26,5 +26,13 @@ namespace DataAnnotations.Models
         public string PhoneNumber { get; set; }
         // This is one method of manually creating validation
         // [Phone] attribute works as well for basic validation, NOT RECOMMENDED
+
+        [InverseProperty("CurrentClient")]
+        public Room CurrentRoom { get; set; }
+        public int CurrentRoomId { get; set; }
+
+        [InverseProperty("PreviousClient")]
+        public Room PreviousRoom { get; set; }
+        public int PreviousRoomId { get; set; }
     }
 }

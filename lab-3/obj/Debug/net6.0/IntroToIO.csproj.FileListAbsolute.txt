@@ -1,0 +1,15 @@
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\bin\Debug\net6.0\IntroToIO.exe
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\bin\Debug\net6.0\IntroToIO.deps.json
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\bin\Debug\net6.0\IntroToIO.runtimeconfig.json
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\bin\Debug\net6.0\IntroToIO.dll
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\bin\Debug\net6.0\IntroToIO.pdb
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\IntroToIO.csproj.AssemblyReference.cache
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\IntroToIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\IntroToIO.AssemblyInfoInputs.cache
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\IntroToIO.AssemblyInfo.cs
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\IntroToIO.csproj.CoreCompileInputs.cache
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\IntroToIO.dll
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\refint\IntroToIO.dll
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\IntroToIO.pdb
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\IntroToIO.genruntimeconfig.cache
+D:\User\Documents\MITT\Software Development\(11) SD-340 Advanced Topics in C#\Class Labs\SD-340-Labs\lab-3\obj\Debug\net6.0\ref\IntroToIO.dll

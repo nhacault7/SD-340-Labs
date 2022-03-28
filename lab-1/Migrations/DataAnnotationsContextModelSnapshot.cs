@@ -45,7 +45,7 @@ namespace DataAnnotations.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Client");
+                    b.ToTable("Client", (string)null);
                 });
 
             modelBuilder.Entity("DataAnnotations.Models.Room", b =>
@@ -61,7 +61,7 @@ namespace DataAnnotations.Migrations
 
                     b.HasKey("RoomNumber");
 
-                    b.ToTable("Rooms");
+                    b.ToTable("Rooms", (string)null);
                 });
 #pragma warning restore 612, 618
         }

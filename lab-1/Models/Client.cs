@@ -4,7 +4,7 @@ namespace DataAnnotations.Models
 {
     public class Client
     {
-        public int id { get; set; }
+        public int Id { get; set; }
 
         [Display(Name = "First Name")]
         [StringLength(25, MinimumLength = 3)]

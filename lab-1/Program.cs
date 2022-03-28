@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using DataAnnotations.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Services.AddDbContext<DataAnnotationsContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DataAnnotationsContext")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();

@@ -3,6 +3,7 @@ using DataAnnotations.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataAnnotations.Migrations
 {
     [DbContext(typeof(DataAnnotationsContext))]
-    partial class DataAnnotationsContextModelSnapshot : ModelSnapshot
+    [Migration("20220328091356_AddClientRoomTypePropertiesToModels")]
+    partial class AddClientRoomTypePropertiesToModels
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
